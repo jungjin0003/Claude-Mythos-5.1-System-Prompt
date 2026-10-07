@@ -1,2 +1,5 @@
 # Claude Mythos 5.1 System Prompt
-This is the Claude Mythos 5.1 system prompt used in Chat for Defense Access under CVP, not the one used in Claude Code.<br>As far as I know, Claude Chat and Claude Code use different system prompts.
+claude-mythos-5.1.md : Chat \
+claude-code-mythos-5.1.md : Claude Code \
+This is the Claude Mythos 5.1 system prompt used in Chat for Defense Access under CVP \
+Some personal information has been removed
